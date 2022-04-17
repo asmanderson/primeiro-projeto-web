@@ -469,10 +469,7 @@ footer .widget_title_text {
   }
   
 
-
-
-
-@media(max-width: 600px){
+@media (max-width: 600px) {
   
 .banner_headline{
    padding: 20px;
@@ -506,6 +503,14 @@ footer .widget_title_text {
 
 .footer_copy{
     padding-left: 20px;
+}
+
+header .container{
+    flex-direction: row;
+}
+
+nav ul{
+    flex-direction: column;
 }
 
 
