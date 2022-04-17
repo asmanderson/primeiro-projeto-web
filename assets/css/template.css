@@ -502,7 +502,15 @@ footer .widget_title_text {
    height: auto;
    flex-direction: column;
 }
-  
+ 
+.container{
+    flex-direction: column;
+}
+
+#geral section{
+    padding: 20px;
+}
+
 #geral section, #geral aside{
     padding:20px ;
 }  
@@ -546,6 +554,11 @@ headrt{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+
+.widget_title{
+   margin-top: 50px;
 }
 
 }
