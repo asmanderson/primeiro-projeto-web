@@ -491,14 +491,22 @@ footer .widget_title_text {
    flex-direction: column;
 }
   
-#geral section{
+#geral section, #geral aside{
     padding:20px ;
 }  
   
-#geral aside{
-    padding:20px ;
-}   
 
+.footer_menu{
+    flex-direction: column;
+}
+.footer_area{
+    flex-direction: column;
+    padding: 20px;
+}
+
+.footer_copy{
+    padding-left: 20px;
+}
 
 
 }
