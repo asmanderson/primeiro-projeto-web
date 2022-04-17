@@ -507,10 +507,6 @@ footer .widget_title_text {
         flex-direction: column;
     }
 
-    #geral section {
-        padding: 20px;
-    }
-
     #geral section,
     #geral aside {
         padding: 20px;
