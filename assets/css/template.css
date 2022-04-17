@@ -395,3 +395,76 @@ footer .widget_title_text {
     font-size: 12px;
     margin-top: 30px;
 }
+
+.main_text {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    color: #727272;
+  }
+  
+  .title_text {
+    color: #727272;
+  }
+  
+  .text1 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+    color: #727272;
+  }
+  
+  .text2 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+    color: #727272;
+  }
+  
+  .text2 a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 12px;
+    color: #FFFFFF;
+  }
+  
+  .social_media {
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+  }
+  
+  .social_media img {
+    margin: 5px;
+  }
+  
+  .social_media a {
+    display: block;
+    text-decoration: none;
+  }
+  
+  .posts {
+    margin-top: 30px;
+    margin-right: 60px;
+    color: #FFFFFF;
+  }
+  
+  .posts a {
+    color: #39aae1;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .tweets {
+    margin-top: 30px;
+    margin-right: 60px;
+    color: #FFFFFF;
+  }
+  
+  .tweets a {
+    color: #39aae1;
+    display: block;
+    text-decoration: none;
+  }
+  
