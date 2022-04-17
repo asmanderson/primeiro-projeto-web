@@ -468,3 +468,37 @@ footer .widget_title_text {
     text-decoration: none;
   }
   
+
+
+
+
+@media(max-width: 600px){
+  
+.banner_headline{
+   padding: 20px;
+}
+
+.banner_headline h1{
+    font-size: 55px;
+}
+
+.banner_headline h2{
+    font-size: 17px;
+}
+  
+.banner_options{
+   height: auto;
+   flex-direction: column;
+}
+  
+#geral section{
+    padding:20px ;
+}  
+  
+#geral aside{
+    padding:20px ;
+}   
+
+
+
+}
