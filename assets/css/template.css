@@ -6,7 +6,7 @@
 body {
     margin: 0;
     padding: 0;
-    
+
 }
 
 header {
@@ -332,7 +332,7 @@ article .news_resume {
     flex-wrap: wrap;
 }
 
-footer{
+footer {
     background-color: #1e1e1e;
     display: flex;
     justify-content: center;
@@ -342,7 +342,9 @@ footer{
     display: flex;
 }
 
-.fm_1, .fm_2, .fm_3{
+.fm_1,
+.fm_2,
+.fm_3 {
     flex: 1;
     color: #FFFFFF;
     padding: 20px;
@@ -360,25 +362,25 @@ footer{
     background-color: #2b4c99;
 }
 
-.footer_area{
+.footer_area {
     display: flex;
-   
+
 }
 
-.footer_areaitem{
+.footer_areaitem {
     flex: 1;
     color: #FFFFFF;
 }
 
-.flexColumn{
+.flexColumn {
     flex-direction: column;
 }
 
-footer .widget_title_text{
+footer .widget_title_text {
     color: #FFFFFF;
 }
 
-.footer_copy{
+.footer_copy {
     border-top: 1p solid #2c2c2c;
     color: #5c5c5c;
     height: 40px;
